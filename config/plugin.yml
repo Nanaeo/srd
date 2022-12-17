@@ -1,3 +1,12 @@
 list:
   srd-cli:
     enable: true
+    type: front
+  srd-generate:
+    enable: true
+    type: generate
+  srd-builder:
+    enable: true
+    type: builder
+  srd-deploy:
+    enable: true
