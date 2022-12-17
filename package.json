@@ -1,0 +1,25 @@
+{
+  "name": "jsfriend",
+  "version": "1.0.0",
+  "description": "an application",
+  "main": "index.js",
+  "bin": {
+    "srd": "./bin/srd"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nanaeo/JsFriend.git"
+  },
+  "author": "Mlikiowa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nanaeo/JsFriend/issues"
+  },
+  "homepage": "https://github.com/Nanaeo/JsFriend#readme",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
