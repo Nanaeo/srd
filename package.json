@@ -1,6 +1,7 @@
 {
   "name": "jsfriend",
   "version": "1.0.0",
+  "type": "module",
   "description": "an application",
   "bin": {
     "srd": "./bin/srd"
