@@ -2,4 +2,4 @@
 
 'use strict';
 
-require('../lib/Loader.js')();
+require('../lib/Loader.js');
